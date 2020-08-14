@@ -1,0 +1,125 @@
+.header {
+    min-height: 50px;
+    background-color:blue;
+    color: white;
+    text-align: center;
+
+}
+
+.cover {}
+
+.wrapper {
+    overflow: hidden;
+}
+
+.blog {
+    height: 350px;
+    width: 70%;
+    margin: 5px;
+    padding: 5px;
+    border: 2 px solid red;
+    background-color: green;
+    float: left;
+    overflow: scroll;
+    text-align: justify;
+}
+
+.news {
+    background-color: blue;
+    color: aliceblue;
+    min-height: 40px;
+}
+
+.content {
+    height: 350px;
+    width: 25%;
+    margin: 5px;
+    background-color: yellow;
+    float: right;
+    overflow: scroll;
+    text-align: justify;
+    border: red;
+
+}
+
+.image img {
+    margin: 5px;
+    float: left;
+    border: 2px solid red;
+}
+
+.table {
+    text-align: center;
+    color: red;
+    width: 600px;
+    height: 250px;
+    margin: 5 auto;
+    background-color: #ffcc00
+}
+
+.content1 p {
+    background-color:azure;
+    text-align: justify;
+    margin: 1px;
+    min-height: 300px;
+    
+}
+
+.content3 {
+    overflow: hidden;
+}
+
+.pic {
+    float: left;
+    height: 100;
+   min-height: 200;
+}
+
+.text {
+    float: left;
+    padding: 10px;
+    width: 300px;
+    min-height: 178px;
+    text-align: justify;
+    background-color: aqua;
+    margin: 2px;
+}
+
+.text1 {
+    float: left;
+    padding: 10px;
+    width: 300px;
+    min-height: 178px;
+    text-align: justify;
+    background-color: aqua;
+    margin: 2px;
+
+
+}
+
+.text2 {
+    float: left;
+    padding: 10px;
+    width: 300px;
+    min-height: 178px;
+    text-align: justify;
+    background-color: aqua;
+    margin: 2px;
+}
+
+.yt {
+        margin-top: 10px;
+    text-align :center;
+        
+    }
+.form{
+    
+}
+
+    .fotter {
+        min-height: 40px;
+        background-color: blue;
+        color: aliceblue;
+        text-align: center;
+
+    }
